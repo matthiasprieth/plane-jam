@@ -14,4 +14,6 @@ Click your mouse or tab your mobile device to accelerate. Mind the other planes!
 - add background layer movement and a second parallax Layer
 - deploy as a native app with CocoonJS
 
+![plane jam preview](https://github.com/matthiasprieth/plane-jam/blob/master/assets/preview.jpg)
+
 ###Assets under [public domain license](http://creativecommons.org/publicdomain/zero/1.0/) from [Kenney](http://opengameart.org/users/kenney) 
