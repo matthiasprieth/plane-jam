@@ -5,6 +5,7 @@ Plane Jam is a simple "Flappy Bird" like game i make for fun with the [phaser](h
 
 
 Click your mouse or tab your mobile device to accelerate. Mind the other planes!
+[Work in progress demo](http://mightyeditor.mightyfingers.com/data/projects/pe0c/phaser/index.html)
 
 ##TODO:
 - add tab support
