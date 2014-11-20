@@ -1,11 +1,11 @@
 plane-jam
 =========
 
-Plane Jam is a simple "Flappy Bird" like game i make for fun with the [phaser](https://github.com/photonstorm/phaser) framework. 
+Plane Jam is a simple "Flappy Bird" like game i make for fun with HTML5/javascript & the [phaser](https://github.com/photonstorm/phaser) framework. 
 
 
 Click your mouse or tab your mobile device to accelerate. Mind the other planes!
-[Work in progress demo](http://mightyeditor.mightyfingers.com/data/projects/pe0c/phaser/index.html)
+- [Work in progress demo](http://mightyeditor.mightyfingers.com/data/projects/pe0c/phaser/index.html)
 
 ##TODO:
 - add tab support
